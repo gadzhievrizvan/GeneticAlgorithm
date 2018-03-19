@@ -1,0 +1,26 @@
+C:\Users\1\Desktop\ShitBackup\ShitBackup\GeneticLib\bin\Debug\GeneticLib.dll
+C:\Users\1\Desktop\ShitBackup\ShitBackup\GeneticLib\bin\Debug\GeneticLib.pdb
+C:\Users\1\Desktop\ShitBackup\ShitBackup\GeneticLib\obj\Debug\GeneticLib.dll
+C:\Users\1\Desktop\ShitBackup\ShitBackup\GeneticLib\obj\Debug\GeneticLib.pdb
+C:\Users\Maxum\Desktop\ShiBackup\GenForms\ShitBackup\GeneticLib\bin\Debug\GeneticLib.dll
+C:\Users\Maxum\Desktop\ShiBackup\GenForms\ShitBackup\GeneticLib\bin\Debug\GeneticLib.pdb
+C:\Users\Maxum\Desktop\ShiBackup\GenForms\ShitBackup\GeneticLib\obj\Debug\GeneticLib.dll
+C:\Users\Maxum\Desktop\ShiBackup\GenForms\ShitBackup\GeneticLib\obj\Debug\GeneticLib.pdb
+C:\Users\Maxum\Desktop\ShiBackup\GenForms\ShitBackup\GeneticLib\obj\Debug\GeneticLib.csprojResolveAssemblyReference.cache
+C:\Users\Maxum\Downloads\Genetic\GeneticLib\bin\Debug\GeneticLib.dll
+C:\Users\Maxum\Downloads\Genetic\GeneticLib\bin\Debug\GeneticLib.pdb
+C:\Users\Maxum\Downloads\Genetic\GeneticLib\obj\Debug\GeneticLib.csprojResolveAssemblyReference.cache
+C:\Users\Maxum\Downloads\Genetic\GeneticLib\obj\Debug\GeneticLib.dll
+C:\Users\Maxum\Downloads\Genetic\GeneticLib\obj\Debug\GeneticLib.pdb
+F:\Рабочий стол\Рабочий стол ЛАСТ\Genertic Algorithm\GeneticLib\bin\Debug\GeneticLib.dll
+F:\Рабочий стол\Рабочий стол ЛАСТ\Genertic Algorithm\GeneticLib\bin\Debug\GeneticLib.pdb
+F:\Рабочий стол\Рабочий стол ЛАСТ\Genertic Algorithm\GeneticLib\obj\Debug\GeneticLib.csprojResolveAssemblyReference.cache
+F:\Рабочий стол\Рабочий стол ЛАСТ\Genertic Algorithm\GeneticLib\obj\Debug\GeneticLib.csproj.CoreCompileInputs.cache
+F:\Рабочий стол\Рабочий стол ЛАСТ\Genertic Algorithm\GeneticLib\obj\Debug\GeneticLib.dll
+F:\Рабочий стол\Рабочий стол ЛАСТ\Genertic Algorithm\GeneticLib\obj\Debug\GeneticLib.pdb
+C:\Users\dre3r\Desktop\GeneticAl\GeneticLib\bin\Debug\GeneticLib.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticLib\bin\Debug\GeneticLib.pdb
+C:\Users\dre3r\Desktop\GeneticAl\GeneticLib\obj\Debug\GeneticLib.csprojResolveAssemblyReference.cache
+C:\Users\dre3r\Desktop\GeneticAl\GeneticLib\obj\Debug\GeneticLib.csproj.CoreCompileInputs.cache
+C:\Users\dre3r\Desktop\GeneticAl\GeneticLib\obj\Debug\GeneticLib.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticLib\obj\Debug\GeneticLib.pdb

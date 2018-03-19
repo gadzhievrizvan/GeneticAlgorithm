@@ -1,0 +1,167 @@
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csprojResolveAssemblyReference.cache
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.g.cs
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\App.g.cs
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.cache
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.lref
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe.config
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.pdb
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.baml
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.g.resources
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.Properties.Resources.resources
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.GenerateResource.Cache
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.exe
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.pdb
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.pdb
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\System.Windows.Interactivity.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+B:\Visual Studio 2017\GeneticGUI\GeneticGUI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe.config
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.pdb
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.pdb
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csprojResolveAssemblyReference.cache
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\App.g.cs
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.cache
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.lref
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.baml
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.g.resources
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.Properties.Resources.resources
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.GenerateResource.Cache
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.exe
+C:\Users\Maxum\Desktop\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.pdb
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe.config
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.pdb
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.pdb
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\App.g.cs
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.cache
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.lref
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.baml
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.g.resources
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.Properties.Resources.resources
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.GenerateResource.Cache
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.exe
+C:\Users\Павел\Desktop\c# and wpf\1\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.pdb
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe.config
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.pdb
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.pdb
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csprojResolveAssemblyReference.cache
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.g.cs
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\App.g.cs
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.cache
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.lref
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.baml
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.g.resources
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.Properties.Resources.resources
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.GenerateResource.Cache
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.CoreCompileInputs.cache
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.exe
+C:\Users\dre3r\Downloads\GeneticGUI\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.pdb
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe.config
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.pdb
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.pdb
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csprojResolveAssemblyReference.cache
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.g.cs
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\App.g.cs
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.cache
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.lref
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.baml
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.g.resources
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.Properties.Resources.resources
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.GenerateResource.Cache
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.CoreCompileInputs.cache
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.exe
+C:\Users\dre3r\Desktop\GeneticAlg\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.pdb
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe.config
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.exe
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\GeneticGUI.pdb
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\GeneticLib.pdb
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csprojResolveAssemblyReference.cache
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.g.cs
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\App.g.cs
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.cache
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI_MarkupCompile.lref
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\MainWindow.baml
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.g.resources
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.Properties.Resources.resources
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.GenerateResource.Cache
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.csproj.CoreCompileInputs.cache
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.exe
+C:\Users\dre3r\Desktop\GeneticAl\GeneticGUI\GeneticGUI\obj\Debug\GeneticGUI.pdb
